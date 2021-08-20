@@ -82,7 +82,7 @@ function Ripple(obj)
 			local Circle = Instance.new("ImageLabel")
 			Circle.Name = "Circle"
 			Circle.Parent = obj
-			Circle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Circle.BackgroundColor3 = Color3.fromRGB(258, 258, 258)
 			Circle.BackgroundTransparency = 1.000
 			Circle.ZIndex = 10
 			Circle.Image = "rbxassetid://266543268"
@@ -170,7 +170,7 @@ function DarkLib:Window()
 	TabHolderFrame.Parent = MainFrame
 	TabHolderFrame.BackgroundColor3 = Color3.fromRGB(33, 33, 33)
 	TabHolderFrame.Position = UDim2.new(0.0251439176, 0, 0.174975574, 0)
-	TabHolderFrame.Size = UDim2.new(0, 519, 0, 31)
+	TabHolderFrame.Size = UDim2.new(0, 639, 0, 31)
 
 	TabHolderFrameUICorner.CornerRadius = UDim.new(0, 11)
 	TabHolderFrameUICorner.Name = "TabHolderFrameUICorner"
