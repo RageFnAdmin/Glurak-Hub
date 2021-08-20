@@ -146,7 +146,7 @@ function DarkLib:Window()
 	MainFrame.Parent = DarkHubLib
 	MainFrame.BackgroundColor3 = Color3.fromRGB(29, 29, 29)
 	MainFrame.Position = UDim2.new(0.330445558, 0, 0.330043852, 0)
-	MainFrame.Size = UDim2.new(0, 600, 0, 341)
+	MainFrame.Size = UDim2.new(0, 640, 0, 350)
 
 	MainFrameUICorner.CornerRadius = UDim.new(0, 11)
 	MainFrameUICorner.Name = "MainFrameUICorner"
@@ -159,7 +159,7 @@ function DarkLib:Window()
 	Title.Position = UDim2.new(0.42778793, 0, 0.041837737, 0)
 	Title.Size = UDim2.new(0, 78, 0, 30)
 	Title.Font = Enum.Font.Gotham
-	Title.Text = "Dark Hub"
+	Title.Text = "Candy Hub"
 	Title.TextColor3 = Color3.fromRGB(168, 168, 168)
 	Title.TextSize = 20.000
 
