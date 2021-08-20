@@ -193,7 +193,7 @@ function DarkLib:Window()
 	TabHolder.Parent = TabHolderFrame
 	TabHolder.BackgroundColor3 = Color3.fromRGB(33, 33, 33)
 	TabHolder.BackgroundTransparency = 1.000
-	TabHolder.Size = UDim2.new(0, 519, 0, 30)
+	TabHolder.Size = UDim2.new(0, 490,30
 
 	TabHolderUIList.Name = "TabHolderUIList"
 	TabHolderUIList.Parent = TabHolder
